@@ -12,7 +12,7 @@
 _Collaborate and work together on GitHub._
 
 </header>
-
+Here is a suggestion
 <!--
   <<< Author notes: Step 5 >>>
   Start this step by acknowledging the previous step.
